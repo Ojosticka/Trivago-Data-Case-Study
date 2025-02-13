@@ -1,0 +1,3 @@
+# excluding all csv and xlsx files 
+*.xlsx
+*.csv
